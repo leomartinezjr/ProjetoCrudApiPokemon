@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "03F6F3C8-111A-4CC2-B717-9726AB28DD7F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0ECBA42-117E-4731-8E0C-2DF757D7ED6E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/ListaPokwTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CBF1699-0D8B-4690-B1C6-170356235FDE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/ListaPokwTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0172B10-EE02-4FA6-835D-6C6AF644ED99"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/ListaPokwTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E65F71B5-EAF3-417E-8FA8-1FF3510E64F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/ListaPokwTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F08208B1-39C8-46EF-A090-C6D3681F8258"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/ListaPokwTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7A58903-8A06-4984-8EB8-273611F48BA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/ListaPokwTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88A383FB-AD99-4601-8465-5C24AC3FFA03"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/ListaPokwTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ListaPokwTableViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "622C782F-12CA-4A8A-97B5-84672E30AC8B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/ListaPokwTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3C7A8D9-3043-4CAA-9673-C8B4B4E53B11"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/ListaPokwTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ListaPokwTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E3C7A8D9-3043-4CAA-9673-C8B4B4E53B11 - b2a15ceb59441037"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.listPokemmonPokeName.getter : Swift.Array&lt;Estudo_CRUD.PokeName&gt;"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "E3C7A8D9-3043-4CAA-9673-C8B4B4E53B11 - a07903dfe849c83b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.listPokemmonPokeName.setter : Swift.Array&lt;Estudo_CRUD.PokeName&gt;"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "E3C7A8D9-3043-4CAA-9673-C8B4B4E53B11 - 73d6b28296b1b0de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.listPokemmonPokeName.modify : Swift.Array&lt;Estudo_CRUD.PokeName&gt;"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "E3C7A8D9-3043-4CAA-9673-C8B4B4E53B11 - 86d603d4297b31d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.listPokemmonPokeName.modify : Swift.Array&lt;Estudo_CRUD.PokeName&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "E3C7A8D9-3043-4CAA-9673-C8B4B4E53B11 - e79dc7a9e31a6695"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.init(style: __C.UITableViewStyle) -&gt; Estudo_CRUD.ListaPokwTableViewController"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  uuid = "E3C7A8D9-3043-4CAA-9673-C8B4B4E53B11 - a7d368f331458c5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Estudo_CRUD.ListaPokwTableViewController"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "157">
+               </Location>
+               <Location
+                  uuid = "E3C7A8D9-3043-4CAA-9673-C8B4B4E53B11 - 60f0ef6f3f22b3aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Estudo_CRUD.ListaPokwTableViewController&gt;"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07987FFC-EE89-490D-9179-5C8CBC337AD0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/ListaPokwTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ListaPokwTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "07987FFC-EE89-490D-9179-5C8CBC337AD0 - b2a15ceb59441037"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.listPokemmonPokeName.getter : Swift.Array&lt;Estudo_CRUD.PokeName&gt;"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "07987FFC-EE89-490D-9179-5C8CBC337AD0 - a07903dfe849c83b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.listPokemmonPokeName.setter : Swift.Array&lt;Estudo_CRUD.PokeName&gt;"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "07987FFC-EE89-490D-9179-5C8CBC337AD0 - 73d6b28296b1b0de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.listPokemmonPokeName.modify : Swift.Array&lt;Estudo_CRUD.PokeName&gt;"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "07987FFC-EE89-490D-9179-5C8CBC337AD0 - 86d603d4297b31d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.listPokemmonPokeName.modify : Swift.Array&lt;Estudo_CRUD.PokeName&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "07987FFC-EE89-490D-9179-5C8CBC337AD0 - e79dc7a9e31a6695"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.init(style: __C.UITableViewStyle) -&gt; Estudo_CRUD.ListaPokwTableViewController"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  uuid = "07987FFC-EE89-490D-9179-5C8CBC337AD0 - a7d368f331458c5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Estudo_CRUD.ListaPokwTableViewController"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "157">
+               </Location>
+               <Location
+                  uuid = "07987FFC-EE89-490D-9179-5C8CBC337AD0 - 60f0ef6f3f22b3aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Estudo_CRUD.ListaPokwTableViewController&gt;"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF01C0CF-E0B2-4328-9C12-1573B0824088"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/ListaPokwTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ListaPokwTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CF01C0CF-E0B2-4328-9C12-1573B0824088 - d4b0508ffb8b5110"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.__deallocating_deinit"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "CF01C0CF-E0B2-4328-9C12-1573B0824088 - 954d4707d23d9272"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.__allocating_init(style: __C.UITableViewStyle) -&gt; Estudo_CRUD.ListaPokwTableViewController"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "CF01C0CF-E0B2-4328-9C12-1573B0824088 - e79dc7a9e31a6695"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.init(style: __C.UITableViewStyle) -&gt; Estudo_CRUD.ListaPokwTableViewController"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  uuid = "CF01C0CF-E0B2-4328-9C12-1573B0824088 - 4bf1b52a6488fac2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Estudo_CRUD.ListaPokwTableViewController"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "CF01C0CF-E0B2-4328-9C12-1573B0824088 - a7d368f331458c5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Estudo_CRUD.ListaPokwTableViewController"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "157">
+               </Location>
+               <Location
+                  uuid = "CF01C0CF-E0B2-4328-9C12-1573B0824088 - ca79b7ae1440384d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Estudo_CRUD.ListaPokwTableViewController&gt;"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "CF01C0CF-E0B2-4328-9C12-1573B0824088 - 60f0ef6f3f22b3aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estudo_CRUD.ListaPokwTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Estudo_CRUD.ListaPokwTableViewController&gt;"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/ListaPokwTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D4FBF8A-5104-456F-AA52-C20D1CA03307"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "REST"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4FA16E9-453C-4EE7-AE3B-913D01361127"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "REST"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF8ED70A-E8BE-4835-9752-A96ADCEFF20B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "REST"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E90C612-A213-4A7F-8A1C-16612F60519F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "REST"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "4E90C612-A213-4A7F-8A1C-16612F60519F - e284961ac4917b4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Estudo_CRUD.REST.loadPokesList(_: (Estudo_CRUD.ListPokemmon) -&gt; (), onError: (Estudo_CRUD.PokeError) -&gt; ()) -&gt; ()"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/REST.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "551">
+               </Location>
+               <Location
+                  uuid = "4E90C612-A213-4A7F-8A1C-16612F60519F - ce35339cc9aa881c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static Estudo_CRUD.REST.loadPokesList(_: (Estudo_CRUD.ListPokemmon) -&gt; (), onError: (Estudo_CRUD.PokeError) -&gt; ()) -&gt; ()"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/REST.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "310">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A99A19AE-1C29-43E2-A9E6-57E3560AC071"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "REST"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A99A19AE-1C29-43E2-A9E6-57E3560AC071 - e284961ac4917b4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Estudo_CRUD.REST.loadPokesList(_: (Estudo_CRUD.ListPokemmon) -&gt; (), onError: (Estudo_CRUD.PokeError) -&gt; ()) -&gt; ()"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/REST.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "551">
+               </Location>
+               <Location
+                  uuid = "A99A19AE-1C29-43E2-A9E6-57E3560AC071 - ce35339cc9aa881c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static Estudo_CRUD.REST.loadPokesList(_: (Estudo_CRUD.ListPokemmon) -&gt; (), onError: (Estudo_CRUD.PokeError) -&gt; ()) -&gt; ()"
+                  moduleName = "Estudo CRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luana.martinez/Library/Autosave%20Information/Estudo%20CRUD/Estudo%20CRUD/REST.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "310">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16E8029C-FCB7-4CF5-A873-FFE47A11A7C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "REST"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEBC2893-9CAE-4069-B574-A11C337E1C0D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "REST"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F924912-B2E1-463B-B3B8-249EC3174705"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "REST"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDA8AFBC-07DD-4ED8-86F2-E277DBB39AAF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "REST"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A0E7B03-0AF2-4101-8D4D-500F2E630E62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "REST"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E065390D-DB26-432E-9583-52F6A2B6EEAA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "REST"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32BBE27F-F0FA-4A13-96FB-318E9AA6069A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "REST"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C01C15CB-9298-4C93-B4D0-D2D69D7A4842"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "REST"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "064E72EF-A5F1-4D50-9625-C80786A3DBD0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "REST"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78936F3C-A437-42A7-A443-5A7DB319018F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "REST"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9DDEC5B-0AF6-4E48-B8B4-3E6FD37970F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "REST"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E46FC87D-1A11-4176-BE30-ACFEFA05AC7F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/ListaPokwTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "ListaPokwTableViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36414EA3-C1BD-4010-80FE-B92EC174CC03"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "REST"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1AF4683-5CB6-4479-9D0F-857CC2445D63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estudo CRUD/ListaPokwTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "ListaPokwTableViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
